@@ -7,12 +7,16 @@ This repository contains a Jupyter Notebook project focused on data wrangling, r
 This project aims to analyze customer churn patterns for MTN Nigeria, one of the leading telecommunications providers in the country. By leveraging a dataset containing demographic, usage, satisfaction, and Customer Tenure in Months details of MTN customers, I explore the factors that influence churn decisions.
 
 #This project is a Final project for module 1 : Data Wrangling & Retrieval, aimed at building foundational skills in working with messy real-world data using Python and pandas.
-Files Included
-MTN Customer Churn Project.ipynb: The main notebook containing the data wrangling, retrieval and EDA.
-README.md: Project documentation and summary.
-mtn_customer_churn.csv: The original dataset.
-List of Nigeria state by population(2).xlsx
-Technologies Used
+
+#Files Included
+1. MTN Customer Churn Project.ipynb: The main notebook containing the data wrangling, retrieval and EDA.
+2. README.md: Project documentation and summary.
+3. mtn_customer_churn.csv: The original dataset.
+4. List of Nigeria state by population(2).xlsx
+4. Link for the presentation at the bottom of this file.
+
+
+#Technologies Used
 Python 3.x
 Jupyter Notebook
 pandas
@@ -21,12 +25,13 @@ matplotlib
 Seaborn
 
 
-Key Features
+#Key Features
 Data Cleaning: Handling of null values, inconsistent formatting, and irrelevant columns.
-Feature Engineering: Creation of clean and consistent columns such as Federal Capital Territory to Abuja (FCT) and merging of another column from another dataset. Exploratory Data Analysis (EDA): Visualizations highlighting patterns in average customer satisfaction rate, average shorter tenure and average data usage.
-Insights:
-Customers with lower satisfaction rates
-Shorter tenures
+Feature Task: Creation of clean and consistent columns such as Federal Capital Territory to Abuja (FCT) and merging of another column from another dataset. Exploratory Data Analysis (EDA): Visualizations highlighting patterns in average customer satisfaction rate, average shorter tenure and average data usage.
+
+#Insights:
+Customers with lower satisfaction rates are more likely to churn
+Shorter tenures customer are more likely to churn
 Lower data usage are more likely to churn from MTN Nigeria.
 
 
@@ -38,7 +43,7 @@ Bar chart average data usage  by churn status
 
 
 
- I’ll start by testing the hypothesis with exploratory data analysis (EDA). We'll look into how satisfaction rate, tenure, and data usage relate to churn status. And even check for the percentage of customers in each state.
+ I’ll start by testing the hypothesis with exploratory data analysis (EDA). I'll look into how satisfaction rate, tenure, and data usage relate to churn status. And even check for the percentage of customers in each state.
 Here’s what I’ll do:
 Compare average satisfaction rate for churned vs. non-churned customers.
 
