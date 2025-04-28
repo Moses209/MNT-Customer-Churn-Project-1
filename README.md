@@ -16,13 +16,13 @@ This project aims to analyze customer churn patterns for MTN Nigeria, one of the
 4. Link for the presentation at the bottom of this file.
 
 
-#Technologies Used
-Python 3.x
-Jupyter Notebook
-pandas
-numpy
-matplotlib
-Seaborn
+#Technologies Used:
+1. Python 3.x
+2. Jupyter Notebook
+3. pandas
+4. numpy
+5. matplotlib
+6. Seaborn
 
 
 #Key Features
@@ -35,7 +35,7 @@ Shorter tenures customer are more likely to churn
 Lower data usage are more likely to churn from MTN Nigeria.
 
 
-Sample Visualizations
+# Sample Visualizations
 Bar chart average satisfaction rate  by churn status
 Bar chart average tenure  by churn status
 Bar chart average data usage  by churn status
@@ -62,7 +62,7 @@ Visualize distributions to make trends easier to interpret.
 
 
 
-Key Insights:
+# Key Insights:
 Surprisingly, churned customers had slightly higher satisfaction, longer tenure, and higher data usage on average.
 
 
