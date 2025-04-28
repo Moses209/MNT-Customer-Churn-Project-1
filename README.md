@@ -8,9 +8,10 @@ This project aims to analyze customer churn patterns for MTN Nigeria, one of the
 
 #This project is a Final project for module 1 : Data Wrangling & Retrieval, aimed at building foundational skills in working with messy real-world data using Python and pandas.
 Files Included
-2025-04-21-Data-Wrangling-Sharks.ipynb: The main notebook containing the data wrangling pipeline and EDA.
+MTN Customer Churn Project.ipynb: The main notebook containing the data wrangling, retrieval and EDA.
 README.md: Project documentation and summary.
-GSAF5.xls: The original dataset if included separately.
+mtn_customer_churn.csv: The original dataset.
+List of Nigeria state by population(2).xlsx
 Technologies Used
 Python 3.x
 Jupyter Notebook
@@ -22,7 +23,7 @@ Seaborn
 
 Key Features
 Data Cleaning: Handling of null values, inconsistent formatting, and irrelevant columns.
-Feature Engineering: Creation of clean and consistent columns such as Federal Capital Territory to Abuja (FCT) and merging of another column from another dataset. Exploratory Data Analysis (EDA): Visualizations highlighting patterns in shark attacks by year, country, activity type, and fatality.
+Feature Engineering: Creation of clean and consistent columns such as Federal Capital Territory to Abuja (FCT) and merging of another column from another dataset. Exploratory Data Analysis (EDA): Visualizations highlighting patterns in average customer satisfaction rate, average shorter tenure and average data usage.
 Insights:
 Customers with lower satisfaction rates
 Shorter tenures
