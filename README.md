@@ -2,9 +2,9 @@
 
 MTN Customer Churn Data Wrangling and Retrieval
 
-This repository contains a Jupyter Notebook project focused on data wrangling, retrieval, exploratory data analysis (EDA), and insights generation related to customer churn incidents at MTN, a mobile telecom network in Nigeria.  The notebook titled (MTN Customer Churn Project) presents the workflow and findings in a structured, reproducible manner.
+This repository contains a Jupyter Notebook project focused on data wrangling, retrieval, exploratory data analysis (EDA), and insights generation related to customer churn incidents at MTN, a mobile telecom network in Nigeria.  The notebook titled (MTN Customer Churn Project) presents the workflow and findings in a structured, reproduciable manner.
 # Project Overview
-This project aims to analyze customer churn patterns for MTN Nigeria, one of the leading telecommunications providers in the country. By leveraging a dataset containing demographic, usage, satisfaction, and Customer Tenure in Months details of MTN customers, I explore the factors that influence churn decisions.
+This project aims to analyze customer churn patterns for MTN Nigeria, one of the leading telecommunications providers in the country. By leveraging a dataset containing demographic, usage, satisfaction, and Customer Tenure in Months details of MTN customers, I explore the factors that might influence churn decisions.
 
 #This project is a Final project for module 1 : Data Wrangling & Retrieval, aimed at building foundational skills in working with messy real-world data using Python and pandas.
 
