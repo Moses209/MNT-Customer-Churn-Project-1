@@ -62,6 +62,8 @@ Surprisingly, churned customers had slightly higher satisfaction, longer tenure,
 
 This contradicts the initial hypothesis.
 
+Presentation for this project link: https://docs.google.com/presentation/d/1Mti7lTVIjWX4x2MSKRNazBXOI9tl8i2-nt0WBXVo0wU/edit?slide=id.g350a4cb0044_0_73#slide=id.g350a4cb0044_0_73
+
 
 🔁 Updated Hypothesis:
 Perhaps other factors like subscription plan, price, or competition are stronger drivers of churn than dissatisfaction or low usage.
